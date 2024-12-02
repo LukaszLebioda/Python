@@ -1,11 +1,11 @@
-# basic built-in functions:
-
 # print() => prints the output
 # len() => returns the length, e.g. of string
 # type() => returns the datatype of a variable
 # int(), float(), str(), bool() => converts one datatype into another
 # round() => rounds floats (with optional precision parameter)
 # input() => asks user for input, can be stored in a variable
+
+# f-strings
 
 text = "Hello_world"
 num = "123"
