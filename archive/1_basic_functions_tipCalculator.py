@@ -4,16 +4,18 @@
 # int(), float(), str(), bool() => converts one datatype into another
 # round() => rounds floats (with optional precision parameter)
 # input() => asks user for input, can be stored in a variable
+# lower(), upper() => lowercase, uppercase
 
 # f-strings
 
 text = "Hello_world"
+text_converted = text.lower() # or .upper()
 num = "123"
 numConverted = int(num)
 numRounded = round(numConverted / 5, 2)
 textLength = len(text)
 textType = type(text)
-print(text, textLength, textType)
+print(text, text_converted, textLength, textType)
 print(f"The text is: {text},\nand the number is: {num}.") # f-string
 print(numConverted)
 print(numRounded)

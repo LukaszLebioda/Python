@@ -4,6 +4,5 @@
 # python3 filename.py (to run a file),
 # --------------------------------------------------------------
 
-# randomisation
-
-# lists
+print("I like pizza")
+print("It's really good!")

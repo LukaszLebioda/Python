@@ -1,12 +1,12 @@
 ## prerequisites
 
-# python 3.12.7
+# python interpreter 3.12.7
 - https://www.python.org/downloads/
 
 # PyCharm IDE
 - https://www.jetbrains.com/edu-products/download/#section=pycharm-edu
 
-# or Visual Studio Code IDE
+# or Visual Studio Code IDE (with Python plugin obligatory)
 - https://code.visualstudio.com/download
 
 # Python VS Code extension (from microsoft);

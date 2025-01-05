@@ -7,7 +7,6 @@
 line01 = '********************'  # header / footer
 line02 = '*                  *'  # re-use
 line03 = '*     WELCOME!     *'
-line04 = '*******'
 
 # starts with a blank line
 print('')
