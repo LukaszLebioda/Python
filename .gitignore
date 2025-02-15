@@ -3,3 +3,4 @@ venv/
 Python Cheat Sheet.pdf
 .idea/
 .DS_store/
+.vscode/
