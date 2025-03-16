@@ -37,3 +37,18 @@ for score in scores:
         max = score
 print(max)
     
+# FOR LOOP with range()
+for number in range(1, 11):
+    print(number)
+
+# FOR LOOP with range()
+# additional parameter: step
+for number in range(1, 11, 2):
+    print(number)
+
+# FOR LOOP with range()
+# add all nubmers from 1 to 100:
+sum = 0
+for number in range(1, 101):
+    sum += number
+print(sum)
