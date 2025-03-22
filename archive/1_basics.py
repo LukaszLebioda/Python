@@ -2,9 +2,11 @@
 # len() => returns the length, e.g. of string
 # type() => returns the datatype of a variable
 # int(), float(), str(), bool() => converts one datatype into another
-# round() => rounds floats (with optional precision parameter)
 # input() => asks user for input, can be stored in a variable
 # lower(), upper() => lowercase, uppercase
+
+# round() => rounds floats (with optional precision parameter)
+# round(24/5) same as 24 // 5
 
 # f-strings
 
@@ -12,7 +14,7 @@ text = "Hello_world"
 text_converted = text.lower() # or .upper()
 num = "123"
 numConverted = int(num)
-numRounded = round(numConverted / 5, 2)
+numRounded = round(numConverted / 5, 2) # 2 - precision
 textLength = len(text)
 textType = type(text)
 print(text, text_converted, textLength, textType)
